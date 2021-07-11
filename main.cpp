@@ -8,4 +8,5 @@ main(void) {
     cout << "hello, edwin\n";
     cout << "yuefang(hotfix)\n";
 	cout << "shangcheng 100%\n;
+	cout << "kaifa 50%\n";
 }
